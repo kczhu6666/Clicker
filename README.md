@@ -13,6 +13,6 @@
 
 3.信息存储和交换
 
-本软件收集的有关您的信息和资料将保存在软件本地。
+本软不会收集您的个人信息，你的软件信息（例如攻击力），会存储在设备中。
 
-4如需技术支持可以在此留言
+4 You can join https://discord.com/invite/JhhqjpZuy7 to share your gaming experience or provide feedback on any issues you encounter.
